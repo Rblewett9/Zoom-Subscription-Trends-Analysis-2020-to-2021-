@@ -1,0 +1,250 @@
+CONTINENT,FULL_COUNTRY_NAME,CONTINENT_ISO,COUNTRY_ISO,REGION,REGION_DETAIL
+Antarctica,Bouvet Island,AQ,BV,Other,Latin America and the Caribbean
+Antarctica,Antarctica,AQ,AQ,Other,
+Antarctica,South Georgia and the South Sandwich Islands,AQ,GS,Other,Latin America and the Caribbean
+Antarctica,French Southern Territories,AQ,TF,Other,Sub-Saharan Africa
+North America,Saint Lucia,NA,LC,NA,Latin America and the Caribbean
+North America,Bahamas,NA,BS,NA,Latin America and the Caribbean
+North America,Dominica,NA,DM,NA,Latin America and the Caribbean
+North America,Jamaica,NA,JM,NA,Latin America and the Caribbean
+North America,Belize,NA,BZ,NA,Latin America and the Caribbean
+North America,Saint Kitts and Nevis,NA,KN,NA,Latin America and the Caribbean
+North America,Puerto Rico,NA,PR,NA,Latin America and the Caribbean
+North America,Barbados,NA,BB,NA,Latin America and the Caribbean
+North America,Canada,NA,CA,NA,Northern America
+North America,United States,NA,US,NA,Northern America
+North America,Saint Vincent and the Grenadines,NA,VC,NA,Latin America and the Caribbean
+North America,Trinidad and Tobago,NA,TT,NA,Latin America and the Caribbean
+North America,Grenada,NA,GD,NA,Latin America and the Caribbean
+South America,Falkland Islands (Malvinas),SA,FK,LATAM,Latin America and the Caribbean
+South America,Suriname,SA,SR,LATAM,Latin America and the Caribbean
+South America,French Guiana,SA,GF,LATAM,Latin America and the Caribbean
+South America,Guyana,SA,GY,LATAM,Latin America and the Caribbean
+Australia (Oceania),Niue,OC,NU,APAC,Polynesia
+Asia,Syrian Arab Republic,AS,SY,APAC,Western Asia
+Asia,Macao,AS,MO,APAC,Eastern Asia
+Asia,Armenia,AS,AM,APAC,Western Asia
+Asia,Brunei Darussalam,AS,BN,APAC,South-eastern Asia
+Asia,"Iran, Islamic Republic of",AS,IR,APAC,Southern Asia
+Asia,Kyrgyzstan,AS,KG,APAC,Central Asia
+Australia (Oceania),Pitcairn,OC,PN,APAC,Polynesia
+Asia,Tajikistan,AS,TJ,APAC,Central Asia
+Australia (Oceania),United States Minor Outlying Islands,OC,UM,APAC,Micronesia
+Asia,Uzbekistan,AS,UZ,APAC,Central Asia
+Australia (Oceania),"Micronesia, Federated States of",OC,FM,APAC,Micronesia
+Asia,Turkmenistan,AS,TM,APAC,Central Asia
+Australia (Oceania),Heard Island and McDonald Islands,OC,HM,APAC,Australia and New Zealand
+Asia,Afghanistan,AS,AF,APAC,Southern Asia
+Australia (Oceania),Northern Mariana Islands,OC,MP,APAC,Micronesia
+Australia (Oceania),Vanuatu,OC,VU,APAC,Melanesia
+Australia (Oceania),Wallis and Futuna,OC,WF,APAC,Polynesia
+Australia (Oceania),French Polynesia,OC,PF,APAC,Polynesia
+Asia,Japan,AS,JP,APAC,Eastern Asia
+Australia (Oceania),New Caledonia,OC,NC,APAC,Melanesia
+Australia (Oceania),Samoa,OC,WS,APAC,Polynesia
+Asia,Viet Nam,AS,VN,APAC,South-eastern Asia
+Asia,Christmas Island,AS,CX,APAC,Australia and New Zealand
+Asia,Indonesia,AS,ID,APAC,South-eastern Asia
+Australia (Oceania),Tuvalu,OC,TV,APAC,Polynesia
+Asia,Bangladesh,AS,BD,APAC,Southern Asia
+Asia,Bhutan,AS,BT,APAC,Southern Asia
+Asia,Hong Kong,AS,HK,APAC,Eastern Asia
+Asia,Malaysia,AS,MY,APAC,South-eastern Asia
+Australia (Oceania),Timor-Leste,OC,TL,APAC,South-eastern Asia
+Australia (Oceania),Tonga,OC,TO,APAC,Polynesia
+Asia,Cambodia,AS,KH,APAC,South-eastern Asia
+Asia,"Korea, Democratic People's Republic of",AS,KP,APAC,Eastern Asia
+Australia (Oceania),Marshall Islands,OC,MH,APAC,Micronesia
+Australia (Oceania),Nauru,OC,NR,APAC,Micronesia
+Australia (Oceania),Papua New Guinea,OC,PG,APAC,Melanesia
+Asia,Singapore,AS,SG,APAC,South-eastern Asia
+Asia,Sri Lanka,AS,LK,APAC,Southern Asia
+Australia (Oceania),Cook Islands,OC,CK,APAC,Polynesia
+Asia,Philippines,AS,PH,APAC,South-eastern Asia
+Australia (Oceania),Guam,OC,GU,APAC,Micronesia
+Asia,"Korea, Republic of",AS,KR,APAC,Eastern Asia
+Asia,Myanmar,AS,MM,APAC,South-eastern Asia
+Australia (Oceania),New Zealand,OC,NZ,APAC,Australia and New Zealand
+Australia (Oceania),Norfolk Island,OC,NF,APAC,Australia and New Zealand
+Europe,Russian Federation,EU,RU,APAC,Eastern Europe
+Australia (Oceania),American Samoa,OC,AS,APAC,Polynesia
+Australia (Oceania),Australia,OC,AU,APAC,Australia and New Zealand
+Australia (Oceania),Fiji,OC,FJ,APAC,Melanesia
+Australia (Oceania),Kiribati,OC,KI,APAC,Micronesia
+Australia (Oceania),Palau,OC,PW,APAC,Micronesia
+Australia (Oceania),Solomon Islands,OC,SB,APAC,Melanesia
+Asia,Thailand,AS,TH,APAC,South-eastern Asia
+Australia (Oceania),Tokelau,OC,TK,APAC,Polynesia
+Asia,Cocos (Keeling) Islands,AS,CC,APAC,Australia and New Zealand
+Asia,"Taiwan, Province of China",AS,TW,APAC,Eastern Asia
+Asia,Mongolia,AS,MN,APAC,Eastern Asia
+Asia,British Indian Ocean Territory,AS,IO,APAC,Sub-Saharan Africa
+Asia,India,AS,IN,APAC,Southern Asia
+Asia,China,AS,CN,APAC,Eastern Asia
+Asia,Lao People's Democratic Republic,AS,LA,APAC,South-eastern Asia
+Asia,Maldives,AS,MV,APAC,Southern Asia
+Asia,Nepal,AS,NP,APAC,Southern Asia
+Asia,Pakistan,AS,PK,APAC,Southern Asia
+North America,"Virgin Islands, British",NA,VG,NA,Latin America and the Caribbean
+North America,Cayman Islands,NA,KY,NA,Latin America and the Caribbean
+North America,Saint Pierre and Miquelon,NA,PM,NA,Northern America
+North America,Aruba,NA,AW,NA,Latin America and the Caribbean
+North America,Guadeloupe,NA,GP,NA,Latin America and the Caribbean
+North America,Greenland,NA,GL,NA,Northern America
+North America,Martinique,NA,MQ,NA,Latin America and the Caribbean
+North America,Saint Barth�lemy,NA,BL,NA,Latin America and the Caribbean
+North America,"Bonaire, Sint Eustatius and Saba",NA,BQ,NA,Latin America and the Caribbean
+North America,Montserrat,NA,MS,NA,Latin America and the Caribbean
+North America,Saint Martin (French part),NA,MF,NA,Latin America and the Caribbean
+North America,Bermuda,NA,BM,NA,Northern America
+North America,Cura�ao,NA,CW,NA,Latin America and the Caribbean
+North America,"Virgin Islands, U.S.",NA,VI,NA,Latin America and the Caribbean
+North America,Antigua and Barbuda,NA,AG,NA,Latin America and the Caribbean
+North America,Turks and Caicos Islands,NA,TC,NA,Latin America and the Caribbean
+North America,Anguilla,NA,AI,NA,Latin America and the Caribbean
+North America,Sint Maarten (Dutch part),NA,SX,NA,Latin America and the Caribbean
+Africa,Sierra Leone,AF,SL,EMEA,Sub-Saharan Africa
+Africa,Congo,AF,CG,EMEA,Sub-Saharan Africa
+Africa,R�union,AF,RE,EMEA,Sub-Saharan Africa
+Europe,Svalbard and Jan Mayen,EU,SJ,EMEA,Northern Europe
+Europe,Holy See (Vatican City State),EU,VA,EMEA,Southern Europe
+Africa,South Sudan,AF,SS,EMEA,Sub-Saharan Africa
+Africa,"Saint Helena, Ascension and Tristan da Cunha",AF,SH,EMEA,Sub-Saharan Africa
+Africa,Sao Tome and Principe,AF,ST,EMEA,Sub-Saharan Africa
+Africa,Mayotte,AF,YT,EMEA,Sub-Saharan Africa
+Europe,�land Islands,EU,AX,EMEA,Northern Europe
+Africa,C�te d'Ivoire,AF,CI,EMEA,Sub-Saharan Africa
+Africa,"Congo, the Democratic Republic of the",AF,CD,EMEA,Sub-Saharan Africa
+Africa,Cabo Verde,AF,CV,EMEA,Sub-Saharan Africa
+Africa,Seychelles,AF,SC,EMEA,Sub-Saharan Africa
+Africa,Swaziland,AF,SZ,EMEA,Sub-Saharan Africa
+Africa,Benin,AF,BJ,EMEA,Sub-Saharan Africa
+Africa,Central African Republic,AF,CF,EMEA,Sub-Saharan Africa
+Africa,Ethiopia,AF,ET,EMEA,Sub-Saharan Africa
+Europe,Italy,EU,IT,EMEA,Southern Europe
+Africa,Kenya,AF,KE,EMEA,Sub-Saharan Africa
+Africa,Liberia,AF,LR,EMEA,Sub-Saharan Africa
+Africa,Morocco,AF,MA,EMEA,Northern Africa
+Asia,Oman,AS,OM,EMEA,Western Asia
+Europe,Poland,EU,PL,EMEA,Eastern Europe
+Europe,Portugal,EU,PT,EMEA,Southern Europe
+Africa,Somalia,AF,SO,EMEA,Sub-Saharan Africa
+Asia,Yemen,AS,YE,EMEA,Western Asia
+Africa,Angola,AF,AO,EMEA,Sub-Saharan Africa
+Europe,Austria,EU,AT,EMEA,Western Europe
+Europe,Belgium,EU,BE,EMEA,Western Europe
+Europe,Bulgaria,EU,BG,EMEA,Eastern Europe
+Africa,Chad,AF,TD,EMEA,Sub-Saharan Africa
+Europe,Croatia,EU,HR,EMEA,Southern Europe
+Africa,Egypt,AF,EG,EMEA,Northern Africa
+Europe,Ireland,EU,IE,EMEA,Northern Europe
+Europe,"Macedonia, the former Yugoslav Republic of",EU,MK,EMEA,Southern Europe
+Africa,Malawi,AF,MW,EMEA,Sub-Saharan Africa
+Africa,Mali,AF,ML,EMEA,Sub-Saharan Africa
+Europe,Monaco,EU,MC,EMEA,Western Europe
+Africa,Nigeria,AF,NG,EMEA,Sub-Saharan Africa
+Europe,San Marino,EU,SM,EMEA,Southern Europe
+Asia,Saudi Arabia,AS,SA,EMEA,Western Asia
+Europe,Serbia,EU,RS,EMEA,Southern Europe
+Europe,Sweden,EU,SE,EMEA,Northern Europe
+Europe,Iceland,EU,IS,EMEA,Northern Europe
+Africa,Mauritania,AF,MR,EMEA,Sub-Saharan Africa
+Europe,Romania,EU,RO,EMEA,Eastern Europe
+Africa,South Africa,AF,ZA,EMEA,Sub-Saharan Africa
+Africa,Cameroon,AF,CM,EMEA,Sub-Saharan Africa
+Africa,Comoros,AF,KM,EMEA,Sub-Saharan Africa
+Africa,Equatorial Guinea,AF,GQ,EMEA,Sub-Saharan Africa
+Asia,Georgia,AS,GE,EMEA,Western Asia
+Europe,Guernsey,EU,GG,EMEA,Northern Europe
+Europe,Hungary,EU,HU,EMEA,Eastern Europe
+Asia,Lebanon,AS,LB,EMEA,Western Asia
+Africa,Libya,AF,LY,EMEA,Northern Africa
+Europe,Montenegro,EU,ME,EMEA,Southern Europe
+Africa,Niger,AF,NE,EMEA,Sub-Saharan Africa
+Africa,Tunisia,AF,TN,EMEA,Northern Africa
+Europe,Bosnia and Herzegovina,EU,BA,EMEA,Southern Europe
+Africa,Burundi,AF,BI,EMEA,Sub-Saharan Africa
+Europe,Faroe Islands,EU,FO,EMEA,Northern Europe
+Europe,Jersey,EU,JE,EMEA,Northern Europe
+Europe,Netherlands,EU,NL,EMEA,Western Europe
+Asia,"Palestine, State of",AS,PS,EMEA,Western Asia
+Asia,Azerbaijan,AS,AZ,EMEA,Western Asia
+Asia,Bahrain,AS,BH,EMEA,Western Asia
+Africa,Guinea-Bissau,AF,GW,EMEA,Sub-Saharan Africa
+Africa,Rwanda,AF,RW,EMEA,Sub-Saharan Africa
+Asia,Turkey,AS,TR,EMEA,Western Asia
+Europe,Czech Republic,EU,CZ,EMEA,Eastern Europe
+Africa,Djibouti,AF,DJ,EMEA,Sub-Saharan Africa
+Africa,Ghana,AF,GH,EMEA,Sub-Saharan Africa
+Europe,Greece,EU,GR,EMEA,Southern Europe
+Asia,Kuwait,AS,KW,EMEA,Western Asia
+Europe,Latvia,EU,LV,EMEA,Northern Europe
+Europe,Liechtenstein,EU,LI,EMEA,Western Europe
+Africa,Mauritius,AF,MU,EMEA,Sub-Saharan Africa
+Africa,Namibia,AF,NA,EMEA,Sub-Saharan Africa
+Europe,Slovakia,EU,SK,EMEA,Eastern Europe
+Europe,Ukraine,EU,UA,EMEA,Eastern Europe
+Africa,Zambia,AF,ZM,EMEA,Sub-Saharan Africa
+Africa,Senegal,AF,SN,EMEA,Sub-Saharan Africa
+Africa,"Tanzania, United Republic of",AF,TZ,EMEA,Sub-Saharan Africa
+Africa,Togo,AF,TG,EMEA,Sub-Saharan Africa
+Asia,United Arab Emirates,AS,AE,EMEA,Western Asia
+Africa,Zimbabwe,AF,ZW,EMEA,Sub-Saharan Africa
+Asia,Kazakhstan,AS,KZ,EMEA,Central Asia
+Africa,Guinea,AF,GN,EMEA,Sub-Saharan Africa
+Africa,Lesotho,AF,LS,EMEA,Sub-Saharan Africa
+Europe,Germany,EU,DE,EMEA,Western Europe
+Europe,Gibraltar,EU,GI,EMEA,Southern Europe
+Asia,Iraq,AS,IQ,EMEA,Western Asia
+Asia,Jordan,AS,JO,EMEA,Western Asia
+Europe,Lithuania,EU,LT,EMEA,Northern Europe
+Africa,Madagascar,AF,MG,EMEA,Sub-Saharan Africa
+Europe,Norway,EU,NO,EMEA,Northern Europe
+Asia,Qatar,AS,QA,EMEA,Western Asia
+Africa,Sudan,AF,SD,EMEA,Northern Africa
+Africa,Western Sahara,AF,EH,EMEA,Northern Africa
+Europe,Albania,EU,AL,EMEA,Southern Europe
+Africa,Algeria,AF,DZ,EMEA,Northern Africa
+Europe,Belarus,EU,BY,EMEA,Eastern Europe
+Africa,Botswana,AF,BW,EMEA,Sub-Saharan Africa
+Africa,Burkina Faso,AF,BF,EMEA,Sub-Saharan Africa
+Africa,Eritrea,AF,ER,EMEA,Sub-Saharan Africa
+Europe,Estonia,EU,EE,EMEA,Northern Europe
+Africa,Gabon,AF,GA,EMEA,Sub-Saharan Africa
+Europe,Isle of Man,EU,IM,EMEA,Northern Europe
+Asia,Israel,AS,IL,EMEA,Western Asia
+Europe,Malta,EU,MT,EMEA,Southern Europe
+Europe,United Kingdom,EU,GB,EMEA,Northern Europe
+Africa,Gambia,AF,GM,EMEA,Sub-Saharan Africa
+Europe,Luxembourg,EU,LU,EMEA,Western Europe
+Europe,Andorra,EU,AD,EMEA,Southern Europe
+Europe,Finland,EU,FI,EMEA,Northern Europe
+Europe,"Moldova, Republic of",EU,MD,EMEA,Eastern Europe
+Europe,Spain,EU,ES,EMEA,Southern Europe
+Europe,Cyprus,EU,CY,EMEA,Western Asia
+Europe,Denmark,EU,DK,EMEA,Northern Europe
+Europe,France,EU,FR,EMEA,Western Europe
+Africa,Mozambique,AF,MZ,EMEA,Sub-Saharan Africa
+Europe,Slovenia,EU,SI,EMEA,Southern Europe
+Europe,Switzerland,EU,CH,EMEA,Western Europe
+Africa,Uganda,AF,UG,EMEA,Sub-Saharan Africa
+North America,Panama,NA,PA,LATAM,Latin America and the Caribbean
+North America,Honduras,NA,HN,LATAM,Latin America and the Caribbean
+South America,Peru,SA,PE,LATAM,Latin America and the Caribbean
+South America,Uruguay,SA,UY,LATAM,Latin America and the Caribbean
+North America,Haiti,NA,HT,LATAM,Latin America and the Caribbean
+South America,Paraguay,SA,PY,LATAM,Latin America and the Caribbean
+South America,"Bolivia, Plurinational State of",SA,BO,LATAM,Latin America and the Caribbean
+North America,Cuba,NA,CU,LATAM,Latin America and the Caribbean
+South America,Colombia,SA,CO,LATAM,Latin America and the Caribbean
+South America,Chile,SA,CL,LATAM,Latin America and the Caribbean
+North America,Guatemala,NA,GT,LATAM,Latin America and the Caribbean
+South America,Argentina,SA,AR,LATAM,Latin America and the Caribbean
+South America,Ecuador,SA,EC,LATAM,Latin America and the Caribbean
+North America,Mexico,NA,MX,LATAM,Latin America and the Caribbean
+North America,Costa Rica,NA,CR,LATAM,Latin America and the Caribbean
+North America,Dominican Republic,NA,DO,LATAM,Latin America and the Caribbean
+South America,"Venezuela, Bolivarian Republic of",SA,VE,LATAM,Latin America and the Caribbean
+South America,Brazil,SA,BR,LATAM,Latin America and the Caribbean
+North America,Nicaragua,NA,NI,LATAM,Latin America and the Caribbean
+North America,El Salvador,NA,SV,LATAM,Latin America and the Caribbean
